@@ -13,21 +13,15 @@ Algunas de las preguntas a las que nos enfrentamos son:
 
 -¿Cuáles son los vecindarios de Madrid más caros y más baratos? 
 
--¿Cuál es el promedio de precios de los alquileres?
+-¿Cuáles son las zonas con mayor y menor número de alojamientos?
 
--¿Cuáles son los vecindarios más populares para los viajeros?
+-¿Cuál es el promedio de precios de los alquileres por año?
+
+-¿Existe relación entre el precio y el número de habitaciones en los alquileres?
 
 -¿Qué mes es el que tiene el precio promedio de los alquileres más elevado? ¿Y el más bajo? 
 
--¿Cuál es la diferencia de precios entre el mes más económico y el más caro?
-
--¿Cuáles son las zonas o calles con mayor oferta? ¿Y con menor oferta?
-
--¿Qué diferencia de precio existe entre las zonas con mayor y menor oferta durante los meses más caros? ¿Y durante los meses más baratos?
-
 -¿Cuál es la fecha (día-mes) más costosa del año en Madrid?
-
--¿Cuál es el número promedio de habitaciones por oferta?
 
 -¿Hay alguna relación entre el precio y el número de habitaciones en los alquileres?
 
@@ -42,19 +36,11 @@ El [dataset](https://public.opendatasoft.com/explore/dataset/airbnb-listings/exp
 
 ### Pasos del proyecto
 
-En nuestro cuaderno de [bitácora](https://github.com/AnaGallegos/Proyecto-Final-KC-Data-Grupo-3/files/10611704/Bitacora.pdf) escribimos todos nuestros pasos a lo largo del proyecto.
+En nuestro cuaderno de [bitácora](https://github.com/AnaGallegos/Proyecto-Final-KC-Data-Grupo-3/files/10737519/bitacora-5.pdf)) escribimos todos nuestros pasos a lo largo del proyecto.
 
-#### Arquitectura y validación de los datos
 
--Nos familiarizamos con el dataset de airbnb de Madrid. 
+### Informe
 
--Realizamos una exploración inicial de los datos. 
-
--Llevamos a cabo la limpieza de las columnas con mayor número de datos nulos y los datos correspondientes a otros países.
-
-Las métricas o KPIs del proyecto:
-
-**Análisis de precios** -> columnas utilizadas: ID, Host ID, Host Name, Host Since, Street, Neighbourhood, Neighbourhood Cleansed, Neighbourhood Group Cleansed, City, State, ~~Zipcode~~, Smart Location, Country Code, Country, Latitude, Longitude, Property Type, Room Type, Bathrooms, Bedrooms, Beds, Bed Type, Square Feet, Price, Weekly Price, Monthly Price, Security Deposit, Cleaning Fee, Number of Reviews, Review Scores Value, Cancellation Policy, Calculated host, listings count y Geolocation.
-
--Definimos e implementamos el Datawarehouse. Creamos la tabla pero importamos los datos a través de PgAdmin o Dbeaver.
+En el informe [informe](https://github.com/AnaGallegos/Proyecto-Final-KC-Data-Grupo-3/files/10737572/Informe.Proyecto.Final.Keepcoding.pdf)
+de nuestro proyecto se encuentran todos nuestros resultados, conclusiones y lecciones aprendidas. 
 
