@@ -37,5 +37,13 @@ create table airbnb.airbnb_table(
     );
 
 --Importamos los datos del CSV a través de pgAdmin con la funcion Import Data ya que al momento de ejecutar el código nos daba el siguiente error: 
+
+--COPY prueba_csv.airbnb (ID,Host_ID,Host_Name, Host_Since, Host_Location, Street,Neighbourhood_Cleansed, Neighbourhood_Group_Cleansed, 
+--City,Zipcode,Country, Latitude, Longitude, Property_Type, Room_Type, Accomodates,Bathrooms,Bedrooms, Beds, Bed_Type, Amenities, Price, Guests_Included,
+--Minimum_Nights, Maximum_Nights, Number_of_Reviews,Cancellation_Policy, Calculated_Host_Listings_Count)
+--FROM '/Users/andreaduque/Documents\ Local/Proyecto/airbnb-listings.csv'
+--DELIMITER ';'
+--CSV HEADER;
+
 --SQL Error [42501]: ERROR: must be superuser or a member of the pg_read_server_files role to COPY from a file
 --Hint: Anyone can COPY to stdout or from stdin. psql's \copy command also works for anyone.
