@@ -23,8 +23,6 @@ Algunas de las preguntas a las que nos enfrentamos son:
 
 -¿Cuál es la fecha (día-mes) más costosa del año en Madrid?
 
--¿Hay alguna relación entre el precio y el número de habitaciones en los alquileres?
-
 
 Nuestro análisis nos guiará a través de los datos, identificando patrones y dando respuesta a estas y otras preguntas importantes. Con nuestros hallazgos, podremos establecer una estrategia de precios efectiva para nuestros alquileres que maximicen nuestra inversión. Y esperamos que la información obtenida sea útil para cualquier persona interesada en entender mejor el mercado de los alquileres de Airbnb en la capital española. 
 
