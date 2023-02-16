@@ -1,4 +1,4 @@
-# Proyecto Fina KC Data -  Grupo 3 (The JSON 5)
+# Proyecto Final KC Data -  Grupo 3 (The JSON 5)
 ### Integrantes: Ana Gallegos, Andrea Duque, Andreina Garcia, Carla Romero y Mariana Fabian.
 
 ---
